@@ -44,6 +44,7 @@ img {
   text-align: center;
   border-radius: 5px;
   background-color: rgb(211, 16, 16);
+  cursor: pointer;
 }
 footer {
   margin-top: 3rem;
